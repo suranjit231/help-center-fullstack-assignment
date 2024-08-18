@@ -11,8 +11,8 @@ The Help Center API Assignment is a full-stack application featuring a responsiv
 
 A. **Clone the Repository:**
    ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   cd fullstack-assignment
+   git clone https://github.com/suranjit231/help-center-fullstack-assignment.git
+   cd help-center-fullstack-assignment
    ```
 
 B. **Backend:**
