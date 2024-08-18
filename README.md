@@ -16,7 +16,7 @@ A. **Clone the Repository:**
    ```
 
 B. **Backend:**
-1. Open terminal and navigate to the backend directory present in (fullstack-assignment/backend):
+1. Open terminal and navigate to the backend directory present in (help-center-fullstack-assignment/backend):
 - **cd backend**
 2. Install dependencies:
 - **npm install**
@@ -27,7 +27,7 @@ DB_URL=your_mongodb_connection_string
 ```
 
 C. **Frontend:**
-1. Open terminal and navigate to the backend directory present in (fullstack-assignment/frontend):
+1. Open terminal and navigate to the backend directory present in (help-center-fullstack-assignment/frontend):
 - **cd frontend**
 2. Install dependencies:
 - **npm install**
